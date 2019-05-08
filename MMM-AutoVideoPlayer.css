@@ -1,0 +1,19 @@
+.MMM-AutoVideoPlayer .player {
+    margin-top: 50px;
+}
+
+.MMM-AutoVideoPlayer .navMenu {
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.MMM-AutoVideoPlayer .controls {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 3px;
+}
